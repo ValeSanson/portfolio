@@ -10,9 +10,6 @@ This project focuses on a multi-label classification task using a dataset compos
 📝 [Project report (PDF)](./ML_final_project.pdf).  
 💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
 
-For a more theoretical perspective, I have also included my Bachelor's thesis.<br>
-This thesis introduces the concept of Lie algebras, with a particular focus on semisimple and solvable Lie algebras of finite dimension over an algebraically closed field of characteristic 0. Several fundamental theorems are proven, including Lie's Theorem, Cartan's Criterion, and Levi's Theorem, whose main consequences and applications are studied. Each result is illustrated with examples and counterexamples.
-
 # Machine Learning Coursework Projects:
 
 **Description:**
@@ -29,3 +26,10 @@ This thesis introduces the concept of Lie algebras, with a particular focus on s
 
 📎 [Open in Colab](https://drive.google.com/drive/folders/1H-mULVPBfkrmHwxg4bb9jLZWkFQTrqHL?usp=drive_link).<br>
 💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
+
+# Thesis:
+
+**Description:**
+
+For a more theoretical perspective, I have also included my Bachelor's thesis.<br>
+This thesis introduces the concept of Lie algebras, with a particular focus on semisimple and solvable Lie algebras of finite dimension over an algebraically closed field of characteristic 0. Several fundamental theorems are proven, including Lie's Theorem, Cartan's Criterion, and Levi's Theorem, whose main consequences and applications are studied. Each result is illustrated with examples and counterexamples.
