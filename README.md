@@ -13,7 +13,7 @@ This project focuses on a multi-label classification task using a dataset compos
 # Machine Learning Coursework Projects:
 
 **Description:**
-- Built transformer-based GPT-2 and character-level language models for text generation; applied cross-entropy loss, perplexity evaluation, and sampling techniques.
+- Built transformer-based and character-level language models for text generation; applied cross-entropy loss, perplexity evaluation, and sampling techniques.
 - Implemented reinforcement learning (Q-learning) in Gymnasium environments.
 - Built a trigram language model to compute n-gram probabilities and generate new poetic sequences. (Python)
 
@@ -23,6 +23,7 @@ This project focuses on a multi-label classification task using a dataset compos
 # Mathematical and Machine Learning Methods in Imaging Coursework Project:
 
 **Description:**
+Implemented a Deep Learning framework in PyTorch to address a Image Inverse Problem (e.g. Image Reconstruction/Denoising) leveraging the specialized deepinv library, and evaluating performance improvements through quantitative metrics like PSNR and SSIM.
 
 📎 [Open in Colab](https://drive.google.com/drive/folders/1H-mULVPBfkrmHwxg4bb9jLZWkFQTrqHL?usp=drive_link).<br>
 💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
