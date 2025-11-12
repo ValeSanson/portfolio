@@ -12,3 +12,20 @@ This project focuses on a multi-label classification task using a dataset compos
 
 For a more theoretical perspective, I have also included my Bachelor's thesis.<br>
 This thesis introduces the concept of Lie algebras, with a particular focus on semisimple and solvable Lie algebras of finite dimension over an algebraically closed field of characteristic 0. Several fundamental theorems are proven, including Lie's Theorem, Cartan's Criterion, and Levi's Theorem, whose main consequences and applications are studied. Each result is illustrated with examples and counterexamples.
+
+# Machine Learning Coursework Projects:
+
+**Description:**
+- Built transformer-based GPT-2 and character-level language models for text generation; applied cross-entropy loss, perplexity evaluation, and sampling techniques.
+- Implemented reinforcement learning (Q-learning) in Gymnasium environments.
+- Built a trigram language model to compute n-gram probabilities and generate new poetic sequences. (Python)
+
+📎 [Open in Colab](https://drive.google.com/drive/folders/1GlrESd8z1OQ0ZPL7ODBURgSid75PcLjw?usp=drive_link).<br>
+💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
+
+# Mathematical and Machine Learning Methods in Imaging Coursework Project:
+
+**Description:**
+
+📎 [Open in Colab](https://drive.google.com/drive/folders/1H-mULVPBfkrmHwxg4bb9jLZWkFQTrqHL?usp=drive_link).<br>
+💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
