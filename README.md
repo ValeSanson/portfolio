@@ -13,7 +13,7 @@ This project focuses on a multi-label classification task using a dataset compos
 # Machine Learning Coursework Projects:
 
 **Description:**
-- Built transformer-based and character-level language models for text generation; applied cross-entropy loss, perplexity evaluation, and sampling techniques.
+- Developed and analyzed advanced NLP models, including Transformer architecture (DeBERTa-v3-base), demonstrating expertise in the Attention Mechanism using PyTorch and the transformers library.
 - Implemented reinforcement learning (Q-learning) in Gymnasium environments.
 - Built a trigram language model to compute n-gram probabilities and generate new poetic sequences. (Python)
 
