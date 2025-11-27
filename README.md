@@ -12,7 +12,7 @@ This project focuses on a multi-label classification task using a dataset compos
 
 # Project 2 (Matlab buit-in solvers bvp4c and bvp5c):
 
-**Description:** 
+**Description:**
 In this project, we explore boundary value problems (BVPs), starting with their theoretical foundations and then examining their practical applications. We focus on the theoretical foundations and the numerical solutions of BVPs, with particular attention to collocation-based techniques. We will investigate two built-in MATLAB solvers based on Lobatto IIIa formula of different orders - bvp4c and bvp5c - to understand how they work, compare their main differences and identify the scenarios in which each solver is most appropriate. To supplement the theoretical analysis, we developed a graphical user interface (GUI) in MATLAB App Designer that enables the user to experiment interactively with several examples of BVPs. The examples implemented in the app are derived from the paper by Shampine, Reichelt, and Kierzenka (2000), "Solving Boundary Value Problems for Ordinary Differential Equations in MATLAB with bvp4c". 
 
 📎 [Open in Colab](https://drive.google.com/drive/folders/1_Tsb0z-mXxrfCcZir3GEZolRgx4jEeJI?usp=drive_link).<br>
