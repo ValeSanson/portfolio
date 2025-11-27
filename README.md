@@ -1,7 +1,7 @@
 # Portfolio of Valentina Sanson
 A showcase of the projects I worked on or contributed to throughout my university studies.
 
-# Project 1: 
+# Project 1 (Machine Learning final project): 
 
 **Description:**  
 This project focuses on a multi-label classification task using a dataset composed of short children's stories, each annotated with zero or more tags. The goal is to automatically assign the appropriate tags to each story based on its content. It consists of solving six binary classification problems, and the aim is to develop and compare two different models to perform this task. The first model is a pre-trained language model called RoBERTa, an improved version of BERT developed by Facebook AI (Meta AI), while the second model is a convolutional neural network (CNN). By comparing these two architectures — a state-of-the-art transformer and a custom-built CNN — the project explores the trade-offs between modern pre-trained models and simpler, more lightweight alternatives for text classification tasks.
@@ -9,6 +9,16 @@ This project focuses on a multi-label classification task using a dataset compos
 📎 [Open in Colab](https://drive.google.com/drive/folders/1IYAY6xWJyVYie-VnHuHL0mMQLMn8aFhb?usp=drive_link).<br>
 📝 [Project report (PDF)](./ML_final_project.pdf).  
 💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
+
+# Project 2 (Matlab buit-in solvers bvp4c and bvp5c):
+
+**Description:** 
+In this project, we explore boundary value problems (BVPs), starting with their theoretical foundations and then examining their practical applications. We will begin by reviewing the key concepts behind these problems, providing the necessary theoretical background. We focus on the theoretical foundations and the numerical solutions of BVPs, with particular attention to collocation-based techniques. After presenting the mathematical background, we will investigate two built-in MATLAB solvers based on Lobatto IIIa formula of different orders - bvp4c and bvp5c - to understand how they work, compare their main differences and identify the scenarios in which each solver is most appropriate. Although the two solvers share the same underlying methodology, they differ in accuracy, stability, residual control and computational efficiency. Understanding these differences is crucial for selecting the most appropriate solver in practical applications.
+To supplement the theoretical analysis, we developed a graphical user interface (GUI) in MATLAB App Designer that enables the user to experiment interactively with several examples of BVPs. The examples implemented in the app are derived from the classical paper by Shampine, Reichelt, and Kierzenka (2000), "Solving Boundary Value Problems for Ordinary Differential Equations in MATLAB with bvp4c". This collection of test problems is a standard reference in the literature and provides a rigorous and diverse set of challenges for evaluating BVP solvers. The final part of the project presents an analysis of selected case studies, highlighting the strengths and limitations of each solver and offering practical guidelines for their use in different scenarios.
+
+📎 [Open in Colab](https://drive.google.com/drive/folders/1_Tsb0z-mXxrfCcZir3GEZolRgx4jEeJI?usp=drive_link).<br>
+📝 [Project report (PDF)]().  
+💻 Technologies: MATLAB (GUI).
 
 # Machine Learning Coursework Projects:
 
