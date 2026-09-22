@@ -27,7 +27,7 @@ Implemented a Deep Learning framework in PyTorch to address a Image Inverse Prob
 📎 [Open in Colab](https://drive.google.com/drive/folders/1H-mULVPBfkrmHwxg4bb9jLZWkFQTrqHL?usp=drive_link).<br>
 💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
 
-# Thesis:
+# Bachelor Thesis:
 
 **Description:**
 
