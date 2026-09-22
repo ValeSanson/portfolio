@@ -19,16 +19,6 @@ In this project, we explore boundary value problems (BVPs), starting with their 
 📝 [Project report (PDF)](./Progetto_NM.pdf).  
 💻 Technologies: MATLAB (GUI).
 
-# Machine Learning Coursework Projects:
-
-**Description:**
-- Developed and analyzed advanced NLP models, including Transformer architecture (DeBERTa-v3-base), demonstrating expertise in the Attention Mechanism using PyTorch and the transformers library.
-- Implemented reinforcement learning (Q-learning) in Gymnasium environments.
-- Built a trigram language model to compute n-gram probabilities and generate new poetic sequences. (Python)
-
-📎 [Open in Colab](https://drive.google.com/drive/folders/1GlrESd8z1OQ0ZPL7ODBURgSid75PcLjw?usp=drive_link).<br>
-💻 Technologies: Python, PyTorch, NumPy, Scikit-Learn.
-
 # Mathematical and Machine Learning Methods in Imaging Coursework Project:
 
 **Description:**
